@@ -1,0 +1,7 @@
+This Code contains the implementation of pages in which data is showing through facebook API.
+total files present :
+1. profile.html (file to execute to show the output)
+2. app.js (file which implement facebook API on code)
+3. app2.js (file which have jquery code for animation)
+4. jquery.min.js (file to support jquery)
+5. style.css (files contains styling of page)
